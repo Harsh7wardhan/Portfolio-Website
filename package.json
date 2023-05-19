@@ -1,5 +1,5 @@
 {
-  "name": "harshportfolio",
+  "name": "rahulportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,18 +40,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This is a personal portfolio website built with React.js and Bootstrap, utilizing React Router v6 to enable easy access to multiple pages. The website was designed and created entirely by Rahul Vijay, showcasing his skills and projects.",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Harsh7wardhan/Portfolio-Website.git"
-  },
-  "author": "harshwardhan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Harsh7wardhan/Portfolio-Website/issues"
-  },
-  "homepage": "https://github.com/Harsh7wardhan/Portfolio-Website#readme"
+  }
 }
