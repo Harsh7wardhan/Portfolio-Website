@@ -2,7 +2,7 @@
 This is a personal portfolio website built with React.js and Bootstrap, utilizing React Router v6 to enable easy access to multiple pages. The website was designed and created entirely by Rahul Vijay, showcasing his skills and projects.
 
 
-![Rahul-Portfolio]("D:\NewDownloads\portfolio.png")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
